@@ -8,6 +8,7 @@ Friend finder is an express app which matches people together based on the answe
 The outcome of the survey will be compared to existing records from other users and will be matched to that with the lowest absolute difference for all ten questions combined.
 
 ##Technologies Used
+
 -JavaScript
 -jQuery
 -HTML
