@@ -16,3 +16,6 @@ The outcome of the survey will be compared to existing records from other users 
 - bootstrap
 - node modules(NPM)
 
+## Screenshots
+
+![Intro page](https://github.com/chrishibby75/friend_finder/blob/master/app/public/images/intro_screen.JPG)
