@@ -19,3 +19,7 @@ The outcome of the survey will be compared to existing records from other users 
 ## Screenshots
 
 ![Intro page](https://github.com/chrishibby75/friend_finder/blob/master/app/public/images/intro_screen.JPG)
+
+![Survey page](https://github.com/chrishibby75/friend_finder/blob/master/app/public/images/survey.JPG)
+
+![Your Best Match](https://github.com/chrishibby75/friend_finder/blob/master/app/public/images/best_match.JPG)
